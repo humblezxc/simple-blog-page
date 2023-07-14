@@ -70,6 +70,7 @@ header {
     display: block;
     width: var(--avater-size);
     height: var(--avater-size);
+    object-position: top;
     object-fit: cover;
     border-radius: 50%;
     border: 2px solid var(--link-color);
