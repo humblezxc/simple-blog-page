@@ -1,7 +1,7 @@
 :root {
     --secondary-color: rgb(225,225,225);
-    --main-color: rgb(132,143,123); //e7a61a
-    --link-color: rgb(98, 42, 181);
+    --main-color: rgb(132,143,123);
+    --link-color: #2f2f72;
     --gap: 15px;
 }
 
